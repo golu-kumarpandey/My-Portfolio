@@ -1,0 +1,267 @@
+img{
+    height: 80px;
+}
+body{
+    background-color: #191a1d;
+}
+
+.main-img{
+     height: 310px;
+}
+#list-one{
+    color: #fff;
+    font-size: 24px;
+    font-style: italic;
+}
+#list-two{
+    color: #fff;
+    font-size: 24px;
+    font-style: italic;
+}
+#list-three{
+    color: #fff;
+    font-size: 24px;
+    font-style: italic;
+}
+#list-four{
+    color: #fff;
+    font-size: 24px;
+     font-style: italic;
+}
+#list-five{
+    color: #fff;
+    font-size: 24px;
+   font-style: italic;
+}
+h1{
+    font-weight: bold;
+    color: #fff;
+    
+}
+p{
+    color:#9aa5b1 ;
+    font-size: 20px;
+}
+.main-container{
+    height: 100vh;
+    width: 100%;
+    
+   
+}
+
+span{
+    color:#4b6cc1 ;
+}
+.btn{
+    font-weight: bold;
+}
+.img-text-container1{
+    height: 100vh;
+    width: 100%;
+}
+
+/* About me section */
+
+.top-container{
+    background-color:#323f4b;
+    padding-top: 10px;
+}
+.buttom-row{
+    background-color:#1f2933;
+}
+.skill-container{
+    background-color: #323f4b ;
+    text-align: center;
+    width: fit-content;
+    
+   border-radius: 20px;
+}
+.skill-container-img{
+   
+    padding-top: 20px;
+    
+  
+}
+.top-section-main-para{
+    font-size: 30px;
+    color: #9aa5b1 ;
+}
+h2{
+   color: #cced00; 
+   font-weight: bold;
+   
+}
+ .skill-name,h1{
+    color: #fff;
+}
+.top-section-img{
+    width: 100%;
+}
+
+/* Project section */
+
+.big-container{
+    background-color: #0d2436 ;
+    width: 100%;
+   
+}
+.container-top{
+   
+}
+.text-container{
+    background-color:#323f4b ;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+h2,h3{
+    color: #cced00;
+}
+h1{
+    color: #fff;
+}
+p{
+    color:#9aa5b1 ;
+    font-size: 20px;
+}
+a{
+    font-size: 20px;
+    color: #cced00;
+}
+
+/* service section */
+
+.service-section-big-container{
+    background-color: #52606d;
+    height: 100%;
+}
+.service-section-text-container{
+    background-color:#323f4b ;
+    border-radius: 10px;
+}
+.service-section-img-container{
+    height: 80px;
+}
+.service-section-main-heading{
+    color: #fff;
+    
+}
+.service-section-paragraph{
+    color:#9aa5b1 ;
+    font-size: 27px;
+}
+.service-section-sub-heading{
+    color:#cced00 ;
+}
+
+/* Work done section */
+
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.work-done-bg-container {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/portfolio-work-done-bg.png');
+    background-size: cover;
+    width: 100%;
+    
+}
+
+
+
+.work-done-line {
+    border-style: solid;
+    border-width: 1px;
+    border-color: white;
+}
+
+.work-done-text-container {
+    text-align: center;
+}
+
+.work-done-price {
+    color: white;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.work-done-description {
+    color: white;
+    font-size: 15px;
+  
+}
+.work-done-icon-img{
+    height: 40px;
+}
+
+/* Testiomonials section */
+
+#carousel-img1{
+    height: 100px;
+    border-radius: 50px;
+ }
+ #carousel-img3{
+     height: 100px;
+     border-radius: 50px;
+  }
+  #carousel-img2{
+     height: 100px;
+     border-radius: 50px;
+  }
+ 
+  .Testimonials-Section-big-container{
+     background-color:#1f2933 ;
+ 
+  }
+  .carousel-para{
+     font-size: 20px;
+     color:#9aa5b1 ;
+  }
+  .carousel-heading{
+     color: #fff;
+  }
+  .Testimonials-Section-sub-heading{
+     color:#cced00 ;
+  }
+  .Testimonials-Section-main-heading{
+     color: #fff;
+  }
+  .Testimonials-Section-text-container{
+     background-color: #323f4b;
+     border-radius: 10px;
+  }
+
+  /* footer section */
+
+  .container-fluid{
+  
+     width: 100%; 
+     background-color: #0d2436;
+    
+     
+}
+.footer-img{
+    height: 100px;
+    border-radius: 50px;
+}
+.footer-heading{
+    color: #cced00;
+}
+.fa-solid, .footer-para{
+    color: #5a7184;
+    font-size: 21px;
+}
+.footer-row{
+    background-color: #001c32;
+   
+}
+.footer-col {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 100px;
+    align-items: center;
+    margin-right: 10px;
+}
+  
+
+
+
+
